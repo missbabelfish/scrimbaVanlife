@@ -45,10 +45,6 @@ header a:hover {
     text-decoration: underline;
 }
 
-h1 {
-    color: pink;
-}
-
 .link-button {
     display: inline-block;
     text-align: center;
